@@ -1,0 +1,9 @@
+{
+  "name": "chatbot-platform",
+  "version": "1.0.0",
+  "description": "Chatbot Builder Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
